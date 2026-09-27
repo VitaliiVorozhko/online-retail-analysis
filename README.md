@@ -67,6 +67,20 @@ The exploratory analysis covers:
 - Monthly revenue trends
 - Revenue by day of the week
 
+## Visualizations
+
+### Top 10 Products by Quantity Sold
+
+![Top 10 Products by Quantity Sold](charts/top_products_by_quantity.png)
+
+### Top 10 International Markets by Revenue
+
+![Top 10 International Markets by Revenue](charts/top_international_markets.png)
+
+### Monthly Revenue Trend
+
+![Monthly Revenue Trend](charts/monthly_revenue_trend.png)
+
 ## Key Findings
 
 - The cleaned sales dataset contains 504,730 transaction records representing 20,951 unique orders.
